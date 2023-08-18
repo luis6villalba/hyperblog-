@@ -8,5 +8,8 @@
     Luis A. Villalba tiene 42 años y nacio en Colombia,
     viviendo en todo el mundo
 
-    Hoy hablaremos de su historia.}
+    Hoy hablaremos de su historia.
+
+
+     En camara parece gordo, pero no estan gordo.}
 }
