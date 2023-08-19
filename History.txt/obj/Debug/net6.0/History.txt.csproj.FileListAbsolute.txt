@@ -1,0 +1,4 @@
+C:\Users\FAMILIA VILLALBA\proyecto1\History.txt\obj\Debug\net6.0\History.txt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAMILIA VILLALBA\proyecto1\History.txt\obj\Debug\net6.0\History.txt.AssemblyInfoInputs.cache
+C:\Users\FAMILIA VILLALBA\proyecto1\History.txt\obj\Debug\net6.0\History.txt.AssemblyInfo.cs
+C:\Users\FAMILIA VILLALBA\proyecto1\History.txt\obj\Debug\net6.0\History.txt.csproj.CoreCompileInputs.cache
